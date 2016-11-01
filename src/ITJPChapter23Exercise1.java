@@ -54,10 +54,10 @@ public class ITJPChapter23Exercise1 {
         Double[] doubleArray = {3.4, 1.3, -22.1, 14.8, 6.0, 2.3, 12.2};
 
         // Create a Character array
-        Character[] charArray = {'a', 'J', 'r'};
+        Character[] charArray = {'a', 'J', 'k', 'o', 'b'};
 
         // Create a String array
-        String[] stringArray = {"Tom", "Susan", "Kim"};
+        String[] stringArray = {"Ace", "Frehley", "Peter", "Criss"};
 
         // Sort the arrays
         bubbleSort(listArray);
